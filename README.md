@@ -144,7 +144,7 @@ An analytic deep-dive into e-commerce behavior:
 ---
 
 # 📫 Connect with Me
-- **LinkedIn:** *(Add your link)*  
+- **LinkedIn:** www.linkedin.com/in/elishay-amar-8b9b38221
 - **Email:** amarElishay@gmail.com  
 
 ---
