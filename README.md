@@ -145,7 +145,7 @@ An analytic deep-dive into e-commerce behavior:
 
 # 📫 Connect with Me
 - **LinkedIn:** www.linkedin.com/in/elishay-amar-8b9b38221
-- **Email:** amarElishay@gmail.com  
+- **Email:** elishay61@gmail.com  
 
 ---
 
@@ -160,4 +160,4 @@ Great products come from combining:
 **Engineering thinking + Data intuition + AI capabilities + Business understanding.**
 
 If you're working on something exciting — reach out 👇  
-📩 **amarElishay@gmail.com**
+📩 **elishay61@gmail.com**
